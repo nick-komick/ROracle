@@ -117,3 +117,4 @@ cp ${ROCI_INC}/ori.h ./src/oci
 cp ${ROCI_INC}/orl.h ./src/oci
 cp ${ROCI_INC}/oro.h ./src/oci
 cp ${ROCI_INC}/ort.h ./src/oci
+cp ${ROCI_INC}/ociver.h ./src/oci
